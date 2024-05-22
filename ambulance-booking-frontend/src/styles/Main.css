@@ -1,0 +1,13 @@
+.carousel-image {
+    width: 800px;
+    height: 400px;
+    object-fit: cover;
+  }
+  .background-image {
+    background-image: url('https://i.pinimg.com/564x/19/77/16/1977167491c8c70d0ca3d764d0e11d1f.jpg'); 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

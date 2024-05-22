@@ -1,0 +1,31 @@
+.landing-page {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .background-image {
+    background-image: url('https://i.pinimg.com/564x/f5/fb/ba/f5fbbac9c9cc676c442f9a19ab25c382.jpg'); /* Add the path to your background image: path/to/your/image.jpg*/ 
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .welcome-message {
+    text-align: center;
+    color: #620909;
+  }
+  
+  .welcome-message h1 {
+    font-size: 3rem;
+  }
+
+  .rounded-pill {
+    border-radius: 30px;
+    margin-top: 20px;
+  }
+  
